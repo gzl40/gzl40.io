@@ -1,0 +1,30 @@
+># Server set up
+> In order to make my progress to set up servers more convenient, I placed some pratical **script** on Log-in, SSR, V2ray, BBR and etc.
+>
+>**SSR**       wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+>
+>**V2ray**     bash <(curl -s -L https://git.io/v2ray.sh) 
+>
+>**L2TP**      wget https://git.io/vpnsetup -O vpnsetup.sh
+>
+>**BBR**       wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+>
+>          chmod +x bbr.sh
+>
+>          ./bbr.sh
+>
+>          uname -r
+>
+>          sysctl net.ipv4.tcp_available_congestion_control
+>
+>          sysctl net.ipv4.tcp_congestion_control
+>
+>          sysctl net.core.default_qdisc
+>
+>          lsmod | grep bbr
+>
+>*Recommend V2ray for swifter and more security connecting experience  
+>*You might wonder why **L2TP** is an option though it's old-fashioned. However to some **ios** users in China mainland don't have the access to download other VPNs.
+# As a noob  
+To me, Git hub is a hole new world for my interest and further career building. Indeed,study is more important to a student though the world without GFW is beautiful. That is also why I use Github to extend my insights. VPN is the main character.
+# My notes  [万历十五年](index-nosig.md)
