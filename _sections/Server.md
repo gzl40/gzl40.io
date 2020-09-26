@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: My Blog
+title: Server
 order: 1
 ---
 ># Server set up
