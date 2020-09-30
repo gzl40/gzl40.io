@@ -1,55 +1,55 @@
-epoch	时代  
-incredulity	怀疑  
-authorities	当局  
-superlative	最高级  
-comparison	对照  
-plain	川
-throne	王座  
-jaw	颚  
-revelation	启示  
-concede	承认  
-attain	达到  
-prophetic	预言的  
-heralded	预示  
-sublime	升华  
-deficient	匮乏  
-congress	国会  
-trident	三叉戟  
-exceed	超过  
-pastor	牧师  
-torn	撕裂  
-pincer	夹击  
-procession	游行  
-monks	和尚  
-sawn	锯开  
-tiller	分蘖  
-cart	大车  
-rustic	乡村  
-mire	泥  
-poultry	家禽  
-tumbrils	囚车  
-atheistical	无神论  
-traitorous	卖国  
-justify	辩解  
-boasting	自夸  
-burglaries	盗窃案  
-gallantly	忠勇  
-consequence	后果  
-ammunition	弹药  
-magnificent	壮丽的  
-potentate	当权者  
-despoiled	掠夺  
-illustrious	杰出  
-blunderbusses	散弹枪  
-contraband	禁品  
-mob	暴民  
-midst	中间  
-requisition	征用  
-miscellaneous	杂  
-pamphlets	小册子  
-atrocious	穷凶极恶  
-unheeded	无人理睬  
-trod	蹊  
-divine	神圣  
-myriads	无数  
-chronicle	编年史  
+epoch	时代  <br>
+incredulity	怀疑  <br>
+authorities	当局  <br>
+superlative	最高级 <br>  
+comparison	对照  <br>
+plain	川 <br>
+throne	王座 <br> 
+jaw	颚  <br>
+revelation	启示 <br>  
+concede	承认  <br>
+attain	达到  <br>
+prophetic	预言的  <br>
+heralded	预示  <br>
+sublime	升华  <br>
+deficient	匮乏  <br>
+congress	国会  <br>
+trident	三叉戟  <br>
+exceed	超过  <br>
+pastor	牧师  <br>
+torn	撕裂  <br>
+pincer	夹击  <br>
+procession	游行  <br>
+monks	和尚  <br>
+sawn	锯开  <br>
+tiller	分蘖  <br>
+cart	大车  <br>
+rustic	乡村  <br>
+mire	泥  <br>
+poultry	家禽  <br>
+tumbrils	囚车  <br>
+atheistical	无神论  <br>
+traitorous	卖国  <br>
+justify	辩解  <br>
+boasting	自夸  <br>
+burglaries	盗窃案  <br>
+gallantly	忠勇  <br>
+consequence	后果  <br>
+ammunition	弹药  <br>
+magnificent	壮丽的  <br>
+potentate	当权者  <br>
+despoiled	掠夺  <br>
+illustrious	杰出  <br>
+blunderbusses	散弹枪  <br>
+contraband	禁品  <br>
+mob	暴民  <br>
+midst	中间  <br>
+requisition	征用 <br>  
+miscellaneous	杂 <br> 
+pamphlets	小册子  <br>
+atrocious	穷凶极恶  <br>
+unheeded	无人理睬  <br>
+trod	蹊  <br>
+divine	神圣  <br>
+myriads	无数  <br>
+chronicle	编年史  <br>
