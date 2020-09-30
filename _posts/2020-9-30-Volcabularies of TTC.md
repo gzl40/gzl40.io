@@ -1,7 +1,7 @@
 epoch	时代  <br>
 incredulity	怀疑  <br>
 authorities	当局  <br>
-superlative	最高级 <br>  
+superlative	最高级 <br>
 comparison	对照  <br>
 plain	川 <br>
 throne	王座 <br> 
