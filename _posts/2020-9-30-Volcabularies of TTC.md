@@ -44,7 +44,7 @@ blunderbusses	散弹枪  <br>
 contraband	禁品  <br>
 mob	暴民  <br>
 midst	中间  <br>
-requisition	征用 <br>  
+requisition	征用 <br>
 miscellaneous	杂 <br> 
 pamphlets	小册子  <br>
 atrocious	穷凶极恶  <br>
