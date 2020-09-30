@@ -6,7 +6,7 @@ comparison	对照  <br>
 plain	川 <br>
 throne	王座 <br> 
 jaw	颚  <br>
-revelation	启示 <br>  
+revelation	启示 <br>
 concede	承认  <br>
 attain	达到  <br>
 prophetic	预言的  <br>
