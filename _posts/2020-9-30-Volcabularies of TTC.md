@@ -1,3 +1,8 @@
+---
+layout: blog
+title: "TTC Volca"
+order: 1
+---
 epoch	时代  <br>
 incredulity	怀疑  <br>
 authorities	当局  <br>
