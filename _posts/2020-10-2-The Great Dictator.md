@@ -1,3 +1,8 @@
+---
+layout: blog
+title: "Dictator"
+order: 1
+---
  ##  Speech by Charlie Chaplin from The Great Dictator movie.<br>
 
 
